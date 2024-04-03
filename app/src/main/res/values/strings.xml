@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Meatball Review</string>
+    <string name="tentang_aplikasi" translatable="false">About Application</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="bakso" translatable="false">Meatball</string>
+    <string name="background" translatable="false">Meatball Background</string>
+    <string name="list_kosong" translatable="false">Input your first review!</string>
+    <string name="x_diklik" translatable="false">%1$s clicked!</string>
+    <string name="input_invalid" translatable="false">Field cannot be empty.</string>
+    <string name="bagikan" translatable="false">Share</string>
+    <string name="bagikan_template" translatable="false">Meatball Name: %1$s Meatball Description: %2$s Meatball Review: %3$s</string>
+    <string name="tambah_catatan" translatable="false">Add Note</string>
+    <string name="nama_bakso" translatable="false">Meatball Name</string>
+    <string name="deskripsi_bakso" translatable="false">Meatball Description</string>
+    <string name="review_bakso" translatable="false">Meatball Review</string>
+    <string name="masukkan" translatable="false">Submit</string>
+    <string name="delete" translatable="false">Delete</string>
+    <string name="enak" translatable="false">Worth</string>
+    <string name="tidak_enak" translatable="false">Worst</string>
+    <string name="kembali" translatable="false">Back</string>
+    <string name="copyright" translatable="false">An application for reviewing meatballs that we have tried.
+        We can add items by inputting meatball name, meatball description, and
+        meatball review based on our experience.\n\nThis application is created for Assessment 1.
+        \n\nCopyright 2021 – 2024 Maharani Tyasworo.\nAll rights reserved.</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Review Bakso</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="logo">Logo</string>
+    <string name="bakso">Bakso</string>
+    <string name="background">Background Bakso</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="input_invalid">Kolom tidak boleh kosong.</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Nama Bakso: %1$s\nDeskripsi Bakso: %2$s\nReview Bakso: %3$s</string>
+    <string name="tambah_catatan">Tambah Catatan</string>
+    <string name="nama_bakso">Nama Bakso</string>
+    <string name="deskripsi_bakso">Deskripsi Bakso</string>
+    <string name="review_bakso">Review Bakso</string>
+    <string name="masukkan">Selesai</string>
+    <string name="delete">Hapus</string>
+    <string name="enak">Enak</string>
+    <string name="tidak_enak">Tidak Enak</string>
+    <string name="kembali">Kembali</string>
+    <string name="copyright">Aplikasi untuk mengulas bakso yang pernah kita coba.
+        Kita dapat menambahkan item dengan memasukkan nama bakso, deskripsi bakso,
+        dan review bakso berdasarkan pengalaman kita.\n\nAplikasi ini dibuat untuk Penilaian 1.
+        \n\nHak Cipta 2021 – 2024 Maharani Tyasworo.\nSemua hak cipta dilindungi undang-undang.</string>
+</resources>
